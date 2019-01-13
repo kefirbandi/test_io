@@ -1,5 +1,7 @@
 1, 2, 3
 
+[a relative link](c1.md)
+
 ## Welcome to GitHub Pages
 
 
