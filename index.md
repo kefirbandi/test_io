@@ -2,6 +2,8 @@
 
 [a relative link](c1.md)
 
+[Numpy Tutorial](NumpyTutorial.html)
+
 ## Welcome to GitHub Pages
 
 
